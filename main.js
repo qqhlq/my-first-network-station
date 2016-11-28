@@ -1,7 +1,6 @@
 var fs = require("fs");
 
-aaa bbb ccc ddd
-bbbb
+aaa bbb ccc ddd eee fff
 var data = fs.readFileSync('input.txt');
 
 console.log(data.toString());
